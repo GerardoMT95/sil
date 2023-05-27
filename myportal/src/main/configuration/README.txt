@@ -1,3 +1,0 @@
-Configurazioni di riferimento versionate
-
-
